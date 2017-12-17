@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[python爬虫1]]></title>
+    <title><![CDATA[python爬虫-2]]></title>
+    <url>%2F2017%2F12%2F17%2Fpython%E7%88%AC%E8%99%AB-1%2F</url>
+    <content type="text"></content>
+      <tags>
+        <tag>python爬虫</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[python爬虫-1]]></title>
     <url>%2F2017%2F12%2F17%2Fpython%E7%88%AC%E8%99%AB%2F</url>
     <content type="text"></content>
       <tags>
